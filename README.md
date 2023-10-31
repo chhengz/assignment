@@ -1,5 +1,8 @@
-<center><h1 style="color: YELLOW;"> assignment </h1></center>
+#assignment
 
-<h2>...</h2>
+::RUPP 2022-2023
+::department IT CS (Computer Science)
+
+
 
 
