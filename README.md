@@ -7,7 +7,7 @@
 
 
 # Features
->>> Book Information <br/>
+> Book Information <br/>
   -> Input <br/>
   -> Output <br/>
  Reader Information <br/>
